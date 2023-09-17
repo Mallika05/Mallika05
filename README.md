@@ -6,6 +6,8 @@
   - [Linux System Monitor](https://github.com/Mallika05/CppND-System-Monitor)
 - <b>Memory Management in C++</b>
   - [Chatbot (C++)](https://github.com/Mallika05/CppND-Memory-Management-Chatbot)
+- <b>Route Planning Project in C++</b>
+  - [Route Planning](https://github.com/Mallika05/CppND-Route-Planning-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
