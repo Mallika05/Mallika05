@@ -15,7 +15,7 @@ I am a member of the Cybersecurity Team where I help my team triage security ale
     - And a few query languages.
     
 - <b>Security Analyst @ Kobalt Security Inc. | 2019 - 2020 </b></br>
-	This was my first job in Cybersecurity, YAY! When I was fresh out of school with a lot of curiosity and dreams to make a career in security, I got to realize those at this new Startup in Vancouver. I was the first Security Analyst on the team who experienced working with some top experts in the industry. This experience included witnessing and supporting the building of a Security Operations Center from the ground up. All this exposure proved to be invaluable for setting up my foundation for my future endeavors.
+	This was my first job in Cybersecurity, YAY! When I was fresh out of school with a lot of curiosity and dreams to make a career in security, I got to realize those at this new Startup in Vancouver. I was the first Security Analyst on the team and experienced working with some super smart people in the industry. This experience included witnessing and supporting the building of a Security Operations Center from the ground up. All this exposure proved to be invaluable for setting up my foundation for my future endeavors.
 	- SIEM,
 	- Log Analysis,
 	- Detection Use Cases,
