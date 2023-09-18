@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mallika! <br/> <a href="https://www.linkedin.com/in/mallikaoberoi/">Cybersecurity Professional</a> | <a href="https://github.com/mallika05">Programmer</a> 
 
-<h2>🕵🏻‍♀️ Currrent Cybersecurity Experience</h2>
+<h2>🕵🏻‍♀️ Cybersecurity Experience</h2>
 
 - <b>Cybersecurity Analyst @ City of Vancouver | 2020 - Present</b></br>
 I am a member of the Cybersecurity Team where I help my team triage security alerts and respond to incidents. Besides digging into incidents and alerts, I also work on projects to amp up security for the City and collaborate with teammates on various new projects. Application Security is another area I have developed immense interest in and I find pleasure in teaming up with developers to find and remediate web app vulnerabilities. I use a variety of tools and scripting and programming languages at my job, including: 
