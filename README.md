@@ -3,7 +3,7 @@
 <h2>🕵🏻‍♀️ Currrent Cybersecurity Experience</h2>
 
 - <b>Cybersecurity Analyst @ City of Vancouver | 2020 - Present</b></br>
-I am a member of the Cybersecurity Team where I help my team triage security alerts and respond to incidents. Other than burying my head into incidents/alerts, I am work on tasks to improve the security posture at the City and collaborate with other teammates or other teams on various new projects. Application Security is another area I have developed immense interest in and I find pleasure in working with developers to find and remediate vulnerabilities in web applications. I use a variety of tools and scripting/programming languages here including: 
+I am a member of the Cybersecurity Team where I help my team triage security alerts and respond to incidents. Besides digging into incidents and alerts, I also work on projects to amp up security for the City and collaborate with teammates on various new projects. Application Security is another area I have developed immense interest in and I find pleasure in teaming up with developers to find and remediate web app vulnerabilities. I use a variety of tools and scripting and programming languages at my job, including: 
     - EDRs,
     - SIEM,
     - Firewalls,
@@ -15,11 +15,11 @@ I am a member of the Cybersecurity Team where I help my team triage security ale
     - And a few query languages.
     
 - <b>Security Analyst @ Kobalt Security Inc. | 2019 - 2020 </b></br>
-	This was my first job in Cybersecurity, YAY! When I was fresh out of school with a lot of curiosity and dreams to make a career in security, I got to realize those at this new Startup in Vancouver. I was the first Security Analyst on the team and experienced working with some super smart people in the industry. This experience included witnessing and supporting the building of a Security Operations Center from the ground up. All this exposure proved to be invaluable for setting up my foundation for my future endeavors.
-	- SIEM,
+This was my first job in Cybersecurity, YAY! When I was fresh out of school with a lot of curiosity and dreams to make a career in security, I got to realize those at this new Startup in Vancouver. I was the first Security Analyst on the team and experienced working with some super smart people in the industry. This experience included supporting the building of a Security Operations Center from the ground up. All this exposure proved invaluable for setting up my foundation for my future endeavors.
+	- SIEM management,
 	- Log Analysis,
 	- Detection Use Cases,
-	- Firewalls, SaaS and Cloud Security
+	- Firewalls, SaaS, and Cloud Security,
 	- Agile Project Tracking,
 	- Ticket Management,
 	- Customer Onboarding,
