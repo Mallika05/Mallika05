@@ -1,5 +1,13 @@
-<h1>Hi, I'm Mallika! <br/> <a href="https://www.linkedin.com/in/mallikaoberoi/">Cybersecurity Professional</a> | <a href="https://github.com/mallika05">Programmer</a> 
-
+<h1>Hi, I'm Mallika! <br/> <a href="https://www.linkedin.com/in/mallikaoberoi/">Cybersecurity Professional, CISSP </a> | <a href="https://github.com/mallika05">Programmer</a> </h1>
+	
+- Security Tools:  Wireshark, Nmap, BurpSuite, AppSpider, InsightVM
+- Firewalls: Palo Alto, Cisco, Fortinet and Sophos
+- Languages/Scripts: Python, Powershell, Bash, SQL, KQL, JavaScript, C++ 
+- EDRs: Microsoft Defender for Endpoint, Defender for Cloud, Crowdstrike, Proofpoint, Assemblyline, Jupyter Notebooks
+- SIEM: Splunk, Azure Sentinel, Elastic Stack
+- Frameworks/Guidelines: OWASP Top 10, ASVS, NIST 800-53, ISO27001 ISMS
+- Cloud: Azure, AWS
+ 
 <h2>🕵🏻‍♀️ Cybersecurity Experience</h2>
 
 - <b>Cybersecurity Analyst @ City of Vancouver | 2020 - Present</b></br>
