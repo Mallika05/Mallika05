@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mallika! <br/> <a href="https://www.linkedin.com/in/mallikaoberoi/">Cybersecurity Professional, CISSP </a> | <a href="https://github.com/mallika05">Programmer</a> </h1>
 	
-- Security Tools:  Wireshark, Nmap, BurpSuite, AppSpider, InsightVM
+- Tools: Wireshark, Nmap, BurpSuite, AppSpider, InsightVM, Selenium
 - Firewalls: Palo Alto, Cisco, Fortinet and Sophos
 - Languages/Scripts: Python, Powershell, Bash, SQL, KQL, JavaScript, C++ 
 - EDRs: Microsoft Defender for Endpoint, Defender for Cloud, Crowdstrike, Proofpoint, Assemblyline, Jupyter Notebooks
