@@ -14,6 +14,15 @@
 
 Currently learning about CI/CD pipelines, SAST and container security.
 
+<h2>:white_check_mark: Certifications</h2>
+
+- **GIAC**: Web Defender Certificate: Securing Web Apps, APIs, and Microservices | 2023
+- **SANS**: FOR508 - Advanced Incident Response, Threat Hunting and Digital Forensics | 2022
+- **ISC2** : CISSP - Certified Information Systems Security Professional (Associate) | 2022
+- **Microsoft**: AZ500 Azure Security Engineer Associate | 2020
+- **British Standards Institution**: Information Security Management Systems (ISMS), ISO 27001 | 2018
+
+
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
 - <b>Object Oriented Programming in C++</b>
@@ -33,10 +42,10 @@ As a pivotal member of the Cybersecurity Team, I help my team triage and orchest
 - <b>Security Analyst @ Kobalt Security Inc., Vancouver | 2019 - 2020 </b></br>
 I first embarked into Cybersecurity with an abundance of curiosity and aspirations at Kobalt. This startup venture laid a solid foundation for my career where I was honored to work alongside industry experts. I contributed to the establishment of a Security Operations Center from its nascent stages. My responsibilities included SIEM management, log analysis, creation of detection use cases, ingestion and monitoring of firewalls, SaaS, and cloud security sources. I excelled in customer onboarding, dashboarding, threat intelligence integration and automating security event response. Additionally, my role also entailed client consultations on various security topics.
 
-- <b>Security Analyst Intern @ Council of Information Security,  New Delhi</b></br>
+- <b>Security Analyst Intern @ Council of Information Security,  New Delhi | 2018 </b></br>
 At CIS, after some great hands-on training on OSINT techniques and finding vulnerabilities like SQL injection, I was able to effectively carry out vulnerability testing of client websites. Additionally, I was tasked with training 4 new interns on fundamentals of Networking - Routing and Switching, where I incorporated hands-on practical labs using GNS3 and Wireshark. I also helped develop virtualization and SDN technology instruction guides.
 
-- <b>Web Developer Intern @ Armor5, New Delhi</b></br>
+- <b>Web Developer Intern @ Armor5, New Delhi | 2016 </b></br>
 At Armor5 (Acquired by Digital Guardian), I contributed in the designing and development of a web application from scratch using -> A Model-View-Controller (MVC) framework, HTML, CSS, JavaScript, PHP and integration with backend MySQL database designed using Entity-Relationship modelling.
 
 <h2> 🤳 Connect with me:</h2>
