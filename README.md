@@ -4,16 +4,15 @@
 
 - **OS**: Windows, MacOS, Linux
 - **Network Analysis and Vulnerability Testing Tools**: Wireshark, Nmap, Tcpdump, BurpSuite, AppSpider, InsightVM, Selenium, SQLmap, Dirbuster.
-- **Firewall Familiarity**: Palo Alto, Cisco, Fortinet, and Sophos firewalls.
+- **Firewall Familiarity**: Palo Alto, Cisco, Fortinet, and Sophos, Azure (WAF) firewalls.
 - **Scripting and Programming Languages**: Python, PowerShell, Bash, SQL, PHP, JavaScript, C++, Kusto Query Language (KQL), Search Processing Language (SPL).
 - **Endpoint Detection and Response (EDR) Platforms and Anti-Viruses**: Microsoft Defender for Endpoint, Defender for Cloud, Crowdstrike, Sophos, MalwareBytes.
 - **SIEM Platforms**: Proficient in Splunk, Azure Sentinel, and Elastic Stack for advanced security information and event management.
 - **Email Security**: Proofpoint, Trend Micro. 
 - **Frameworks and Security Standards**: OWASP Top 10, Mitre ATT&CK, Application Security Verification Standard (ASVS), NIST 800-53, and ISO27001 Information Security Management System (ISMS).
-- **Cloud Security Proficiency**: Well-versed in securing cloud environments in both Azure and AWS.
-
-Currently learning about CI/CD pipelines, SAST and container security.
-
+- **Cloud Security Proficiency**: Well-versed in securing cloud environments in both Azure and AWS.<br/>
+  Additionally, I'm experienced with Docker and familar with Container Security and SAST (SonarQube).
+  
 <h2>:white_check_mark: Certifications</h2>
 
 - **GIAC**: Web Defender Certificate: Securing Web Apps, APIs, and Microservices | 2023
