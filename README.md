@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mallika! <br/> <a href="https://www.linkedin.com/in/mallikaoberoi/">Cybersecurity Professional, CISSP </a> | <a href="https://github.com/mallika05">Programmer</a> </h1>
+<h1>Hi, I'm Mallika! <br/> <a href="https://www.linkedin.com/in/mallikaoberoi/">Cybersecurity Professional</a> </h1>
 	
 <h2>🛠️ Technical Toolbox</h2>
 
@@ -35,7 +35,10 @@
  
 <h2>🕵🏻‍♀️ Cybersecurity Experience</h2>
 
-- <b>Cybersecurity Analyst @ City of Vancouver | 2020 - Present</b></br>
+- <b>Security Engineer @ Brex | 2023 - Present</b></br>
+
+
+- <b>Cybersecurity Analyst @ City of Vancouver | 2020 - 2023</b></br>
 As a pivotal member of the Cybersecurity Team, I help my team triage and orchestrate responses to security alerts and incidents. My role extends beyond incident handling, encompassing initiatives aimed at fortifying the security posture of the City. I thrive on collaborative endeavors with my teammates and regularly engage in cybersecurity projects. Application Security has emerged as one of my profound interests, prompting me to actively engage with developers in identifying and rectifying vulnerabilities within web applications. 
     
 - <b>Security Analyst @ Kobalt Security Inc., Vancouver | 2019 - 2020 </b></br>
